@@ -1,6 +1,6 @@
 {
-    "name": "vendor/laravel-activity-logger",
-    "description": "Description of project laravel-activity-logger.",
+    "name": "itvisionsy/laravel-activity-logger",
+    "description": "An activity logger layer for laravel.",
     "authors": [
         {
             "name": "Muhannad Shelleh",

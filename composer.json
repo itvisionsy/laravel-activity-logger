@@ -1,0 +1,16 @@
+{
+    "name": "vendor/laravel-activity-logger",
+    "description": "Description of project laravel-activity-logger.",
+    "authors": [
+        {
+            "name": "Muhannad Shelleh",
+            "email": "muhannad.shelleh@itvision-sy.com"
+        }
+    ],
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "ItvisionSy\\LaravelActivityLogger\\": "src/"
+        }
+    }
+}
